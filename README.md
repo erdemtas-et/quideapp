@@ -1,4 +1,4 @@
-# quidea_app
+# Quidea Mobile App
 
 A new Flutter application.
 
